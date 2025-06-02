@@ -1,2 +1,31 @@
-# E-Commerce
-An end-to-end sentiment analysis tool for classifying customer reviews from e-commerce platforms. This project leverages natural language processing (NLP) and machine learning to understand customer feedback, evaluate sentiment (positive or negative), and perform aspect-based sentiment analysis on product reviews. 
+# 🛍️ E-Commerce Review Analyzer
+
+This project analyzes customer reviews from e-commerce platforms using machine learning and natural language processing (NLP). It classifies sentiment (positive/negative), performs aspect-based sentiment analysis (e.g., on *price*, *delivery*, *quality*), and visualizes key evaluation metrics.
+
+---
+
+## 🚀 Features
+
+- ✅ Sentiment classification using Logistic Regression and TF-IDF
+- ✅ Aspect-based sentiment analysis using TextBlob
+- ✅ Transformer-based sentiment detection with Hugging Face’s DistilBERT
+- ✅ Stratified K-Fold Cross-Validation for robust model evaluation
+- ✅ Metric visualizations: Precision, Recall, F1-Score
+
+---
+
+## 🧠 Technologies Used
+
+- Python
+- Scikit-learn
+- TextBlob
+- Hugging Face Transformers
+- TfidfVectorizer
+- NLTK
+- Matplotlib / Seaborn
+- Pandas / NumPy
+
+---
+
+
+
