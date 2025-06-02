@@ -11,6 +11,7 @@ This project analyzes customer reviews from e-commerce platforms using machine l
 - ✅ Transformer-based sentiment detection with Hugging Face’s DistilBERT
 - ✅ Stratified K-Fold Cross-Validation for robust model evaluation
 - ✅ Metric visualizations: Precision, Recall, F1-Score
+- ✅ Streamlit app: Prediciting Sentiment of sentence given by user
 
 ---
 
@@ -24,6 +25,7 @@ This project analyzes customer reviews from e-commerce platforms using machine l
 - NLTK
 - Matplotlib / Seaborn
 - Pandas / NumPy
+- Streamlit
 
 ---
 
